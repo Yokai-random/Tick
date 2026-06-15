@@ -25,7 +25,7 @@ release/
 # .claude/ Claude Code 本地配置,非项目源码
 .claude/
 
-# src/buildtime.json 每次构建被脚本覆写的时间戳(想保留可删掉这行)
+# src/buildtime.json 每次构建被脚本覆写的时间戳
 src/buildtime.json
 
 # ==============================================
