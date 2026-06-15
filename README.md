@@ -1,5 +1,6 @@
 # Tick
 
+A clean, easy-to-use third-party Minecraft launcher.
 一个简洁、好用的第三方 Minecraft 启动器。
 
 为日本及海外网络环境下载游戏文件做了优化,支持正版微软登录、
